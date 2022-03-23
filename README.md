@@ -11,7 +11,7 @@
 
 - 🔭 am sexy
 - 🌱 ui>
-- 👯 I am col
+- 👯 I am cool
 - 🥅 2022 Goals: idk
 - ⚡ Fun fact: am ui
 
