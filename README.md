@@ -1,11 +1,4 @@
-# Hi am Ui👋 
 
-<p align="center">
-<a href="https://github.com/Uiisback">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?usernameUiisback&layout=compact&langs_count=8&theme=react&locale=fr"/>
-</a>
-  
-</p>
 
 
 [![Website](https://img.shields.io/website?label=ghostt.ga&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ghostt.ga)
