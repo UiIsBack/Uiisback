@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/uiisback">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?usernameuiisback&layout=compact&langs_count=8&theme=react&locale=fr"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?usernameUiisback&layout=compact&langs_count=8&theme=react&locale=fr"/>
 </a>
   
 </p>
