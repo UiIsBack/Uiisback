@@ -10,19 +10,9 @@
 
 
 
-## Am a python dev
-
-- 🔭 am sexy
-- 🌱 ui>
-- 👯 I am cool
-- 🥅 2022 Goals: idk
-- ⚡ Fun fact: am ui
-
-### Connect with me:
 
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCr1RzKF7v4gxIIOtGaS4Ygw#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCr1RzKF7v4gxIIOtGaS4Ygw#gh-dark-mode-only)
+
 
 ### Languages and Tools:
 
