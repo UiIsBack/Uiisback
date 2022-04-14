@@ -2,8 +2,7 @@
                                                                                                                                        
 ![UiIsBack's GitHub stats](https://github-readme-stats.vercel.app/api?username=UiIsBack&show_icons=true&theme=radical) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uiisback&theme=tokyonight)
-#
+![2](https://github-readme-stats.vercel.app/api/top-langs/?username=uiisback&theme=github_dark)
 
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=ff7700&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Uiisback" alt="Total Forks"></a> </p>
 
